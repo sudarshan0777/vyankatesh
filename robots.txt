@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vyankatesh-electronics.shop/sitemap.xml
