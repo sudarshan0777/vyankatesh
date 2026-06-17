@@ -1,43 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  
-    <url>
-    <loc>https://www.vyankatesh-electronics.shop/</loc>
-    <lastmod>2025-07-12</lastmod>
+  <!-- Main Landing Page -->
+  <url>
+    <loc>https://vyankatesh-electronics.webatcost.in/</loc>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-      
   </url>
   
+  <!-- Apple Products Section Page -->
   <url>
-    <loc>https://vyankatesh-electronics.shop/apple/apple.html</loc>
-    <lastmod>2025-06-19</lastmod>
+    <loc>https://vyankatesh-electronics.webatcost.in/apple/apple.html</loc>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
   </url>
 
- <url>
-    <loc>https://www.vyankatesh-electronics.shop/about-us.html</loc>
-    <lastmod>2025-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+  <!-- About Us Page -->
+  <url>
+    <loc>https://vyankatesh-electronics.webatcost.in/about-us.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 
-<url>
-  <loc>https://www.vyankatesh-electronics.shop/blog/best-mobile-shop-in-shrigonda.html</loc>
-  <lastmod>2025-06-19</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.9</priority>
-</url> 
-
+  <!-- Local Authority Blog Post -->
   <url>
-  <loc>https://www.vyankatesh-electronics.shop/blog/galaxy-z-fold-7-launch-2025.html</loc>
-  <lastmod>2025-07-12</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.9</priority>
-</url>
-
+    <loc>https://vyankatesh-electronics.webatcost.in/blog/best-mobile-shop-in-shrigonda.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url> 
 
   
+
 </urlset>
